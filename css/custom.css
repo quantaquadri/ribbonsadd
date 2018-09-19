@@ -839,12 +839,12 @@ section.testimonials .pad20{
   padding: 20px;
 }
 #carousel-testimonials {
-  background: #fafafa none repeat scroll 0 0;
+  background: #fff5f9 none repeat scroll 0 0;
   border-radius: 8px;
-  box-shadow: 0 0 20px -5px rgba(103, 58, 183, 0.2);
+  
   margin-bottom: 50px;
   padding: 25px;
-  border: 1px solid rgba(103, 58, 183, 0.1);
+  
 }
 section.testimonials .item{
   color: #333;  
@@ -963,6 +963,7 @@ section#newsletter{
   background-image:    -moz-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/tr.jpg"); 
   background-image:     -ms-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/tr.jpg"); 
   background-image:      -o-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(60, 0, 0, .6) 100%), url("../img/tr.jpg");
+  background-position: center;
 }
 #newsletter {
   background-attachment: fixed;
