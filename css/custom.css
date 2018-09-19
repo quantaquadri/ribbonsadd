@@ -414,7 +414,7 @@ header form.top-form .btn.btn-default {
   -o-transition: all 200ms ease-in-out;
 }
 header form.top-form .btn.btn-default:hover {
-  background: #7F44B6;
+  background: #f9508c;
 }
 header .form-content .panel.panel-default .panel-footer{
   background: transparent;
