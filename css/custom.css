@@ -33,7 +33,7 @@ body {
   width: 100%;
 }
 body {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
   webkit-tap-highlight-color: #222222;
 }
@@ -67,7 +67,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
   letter-spacing: 1px;
 }
@@ -139,9 +139,8 @@ p {
   padding-left: 0;
 }
 .btn-outline {
-  color: white;
-  border-color: white;
-  border: 2px solid;
+  /* color: #f9508c; */
+  /* border: 2px solid; */
   padding: 10px 20px;
 }
 .btn-outline:hover,
@@ -195,10 +194,10 @@ section .section-heading::before {
   width: 30px;
 }
 section .section-heading h2 {
-  font-size: 38px;
+  font-size: 24px;
   margin-top: 0;
-  margin-bottom: 25px;
-  font-weight: 600;
+  margin-bottom: 30px;
+  font-weight: 500;
   color: #000;
   text-transform: uppercase;
   letter-spacing: 1.1px;
@@ -220,12 +219,12 @@ section .section-heading p{
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
   letter-spacing: 1px;
 }
 .navbar-default .navbar-header .navbar-brand {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
   letter-spacing: 1px;
   color: #fdcc52;
@@ -327,13 +326,14 @@ header .header-content .header-content-inner {
 header .header-content .header-content-inner h1 {
   margin-top: 0;
   margin-bottom: 30px;
-  font-size: 30px;
+  font-size: 48px;
   font-weight: 600;
 }
 header .header-content .header-content-inner p {
   margin: 0 auto 30px;
   max-width: 710px;
   text-align: center;
+  font-size: 20px;
 }
 header .header-content .header-content-inner h2 {
   margin-top: 0;
@@ -369,7 +369,7 @@ header .form-content {
   width: 100%;
 }
 header .form-content .panel.panel-default{
-  margin-top: 250px;
+  margin-top: 180px;
   padding: 40px 15px;
 }
 header .form-content .panel.panel-default .panel-heading{
@@ -467,14 +467,14 @@ section.services .feature-item:hover {
 section.services .feature-item h3 {
   color: #444;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   margin-top: 20px;
   text-align: center;
-  text-transform: uppercase;
   margin-bottom: 20px;
 }
 section.services .feature-item p {
   font-size: 16px;
+  color:#6c757d;
 }
 section.services .feature-item i.custom-icom {
   background: transparent none repeat scroll 0 0;
@@ -490,9 +490,9 @@ section.services .feature-item i.custom-icom {
   width: 70px;
 }
 section.services .feature-item a.learn-more{
-  color: #555;
+  color: #f9508c;
   text-align: center;
-  font-weight: 600;
+  font-weight: 500;
   text-decoration: none;
   font-size: 16px;
 }
@@ -989,8 +989,8 @@ section#newsletter{
   font-size: 62px;
 }
 #newsletter .single h2 {
-  font-size: 18px;
-  font-weight: bold;
+  font-size: 24px;
+  font-weight: 500;
   color: white;
   text-transform: uppercase;
   margin-bottom: 40px; 
