@@ -308,11 +308,11 @@ header {
   min-height: 740px;
 }
 header.home{
-  background-image: linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/th.jpg");
-  background-image: -webkit-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/th.jpg"); 
-  background-image:    -moz-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/th.jpg"); 
-  background-image:     -ms-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/th.jpg"); 
-  background-image:      -o-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/th.jpg");
+  background-image: linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg");
+  background-image: -webkit-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg"); 
+  background-image:    -moz-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg"); 
+  background-image:     -ms-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg"); 
+  background-image:      -o-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg");
 }
 header .header-content {
   text-align: center;
@@ -353,7 +353,7 @@ header a.scroll-down{
 .header-content-inner.text_left h1,
 .header-content-inner.text_left p,
 .header-content-inner.text_left a{
-  text-align: center !important;
+  text-align: left !important;
   float: none ;
 }
 header a.scroll-down i.fa-angle-double-down{
@@ -1018,7 +1018,7 @@ section#newsletter{
   border-color: #C3A5FC ; 
 }
 #newsletter .single .btn {
-  min-height: 50px; 
+  min-height: 35px; 
   background: #f9508c ;
   color: #fff;
   font-weight: 600;
@@ -1241,13 +1241,13 @@ section.client{
   text-transform: uppercase;
 }
 #contact form .btn{
-  background: transparent;
+  background: #f9508c;
   margin-top: 50px;
   font-size: 16px;
   font-weight: 600;
   border-radius: 15px;
   border: 2px solid #f9508c;
-  color: #f9508c;
+  color: #fff;
   text-align: center;
   float: none;
   -webkit-transition: .5s; /* For Safari 3.1 to 6.0 */
