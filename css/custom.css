@@ -308,11 +308,11 @@ header {
   min-height: 740px;
 }
 header.home{
-  background-image: linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg");
-  background-image: -webkit-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg"); 
-  background-image:    -moz-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg"); 
-  background-image:     -ms-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg"); 
-  background-image:      -o-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("../img/ty.jpg");
+  background-image: linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593002/ad/ty.jpg");
+  background-image: -webkit-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593002/ad/ty.jpg"); 
+  background-image:    -moz-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593002/ad/ty.jpg"); 
+  background-image:     -ms-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593002/ad/ty.jpg"); 
+  background-image:      -o-linear-gradient(-19deg, rgba(0, 0, 0, .8) 0px, rgba(0, 0, 0, .8) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593002/ad/ty.jpg");
 }
 header .header-content {
   text-align: center;
@@ -958,11 +958,11 @@ section#faq{
 
 section#newsletter{
   min-height: 250px;
-  background-image: linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/tr.jpg");
-  background-image: -webkit-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/tr.jpg"); 
-  background-image:    -moz-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/tr.jpg"); 
-  background-image:     -ms-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("../img/tr.jpg"); 
-  background-image:      -o-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(60, 0, 0, .6) 100%), url("../img/tr.jpg");
+  background-image: linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593110/ad/tr.jpg");
+  background-image: -webkit-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593110/ad/tr.jpg"); 
+  background-image:    -moz-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593110/ad/tr.jpg"); 
+  background-image:     -ms-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(0, 0, 0, .6) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593110/ad/tr.jpg"); 
+  background-image:      -o-linear-gradient(-19deg, rgba(0, 0, 0, .6) 0px, rgba(60, 0, 0, .6) 100%), url("https://res.cloudinary.com/dxuap8kxy/image/upload/v1537593110/ad/tr.jpg");
   background-position: center;
 }
 #newsletter {
