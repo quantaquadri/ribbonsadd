@@ -1444,3 +1444,70 @@ a .single_demo:hover img{
         transform: translateY(-15px)
     }
 }
+
+
+.pricing__plans {
+  background-color: #fff5f9;
+  width: 70%;
+  padding: 40px 0;
+  float: left;
+  left: 15%;
+  position: relative;
+  -webkit-box-shadow: inset 2px 0px 0px 0px #fff;
+  box-shadow: inset 2px 0px 0px 0px #fff;
+  -moz-box-shadow: inset 2px 0px 0px 0px #fff;
+}
+
+
+
+.pricing__title {
+  width: 100%;
+  text-align: center;
+  position: relative;
+  font-size: 24px;
+  font-weight: 700;
+  padding: 0px 0 40px 0;
+  margin: 0px;
+}
+
+.pricing__values {
+  font-size: 58px;
+  font-weight: 700;
+  height: 70px;
+  position: relative;
+  text-align: center;
+}
+
+
+
+.pricing__value--show {
+  -webkit-animation: showToY 0.6s forwards;
+  animation: showToY 0.6s forwards;
+}
+.pricing__value {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pricing__value span {
+  display: inline-block;
+  font-size: 20px;
+  margin: 0px 0 0 0;
+}
+
+.pricing__list {
+  width: 80%;
+  margin: 20px 0 0 10%;
+  padding: 0;
+  list-style: none;
+}
+
+.pricing__list li {
+  padding: 3px 0 3px 12%;
+  text-align: center;
+  line-height: 24px;
+  background: url(https://res.cloudinary.com/dxuap8kxy/image/upload/v1534439290/ribweb3/css/checked-pricing.png) no-repeat 0 50%;
+}
